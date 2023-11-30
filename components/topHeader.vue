@@ -1,6 +1,6 @@
 <template>
   <header
-    class="header-header w-full m-auto z-20 max-w-7xl absolute left-0 right-0"
+    class="header-header w-full m-auto z-20 max-w-7xl fixed left-0 right-0"
   >
     <nav
       class="header-nav mt-5 bg-lime-600 bg-opacity-90 rounded-full py-5 px-10 m-20"
